@@ -1,0 +1,14 @@
+*.cs text diff=csharp
+*.shader text
+*.cginc text
+*.hlsl text
+*.txt text
+*.json text
+*.xml text
+*.yml text
+*.asmdef text
+*.rsp text
+*.md text
+*.sh text eol=lf
+*.bat text eol=crlf
+* text=auto
